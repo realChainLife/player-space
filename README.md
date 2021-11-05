@@ -1,6 +1,6 @@
 (To join [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/) see [Getting Started](Getting-Started.md).)
 
-# Name (@realchainlife)
+# Sonia John (@realchainlife)
 
 Decentralize The Web
 
