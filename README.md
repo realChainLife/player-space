@@ -8,12 +8,10 @@ Decentralize The Web
 
 ## Bio
 
-Enthusiastic Nomi :-)
+Enthusiastic Nomi & Assigned Treasurer :-)
 
 ## Identities
 * [github](https://github.com/realchainlife)
-* [keybase](https://keybase.io/keybase_id)
-* [linkedin](https://www.linkedin.com/in/linkedin_id)
 
 ## Roles
 * [Cryptonomicon](https://cryptotechguru.github.io/Cryptonomicon/)
@@ -21,4 +19,4 @@ Enthusiastic Nomi :-)
   * [Player](https://cryptotechguru.github.io/Cryptonomicon/Roles/Player)
   
 ## Achievements
-TBD
+* 11 Feb: Reviewed and approved completion of [Bounty 39](https://github.com/cryptotechguru/EDENomicon/wiki/Bounty-39)
